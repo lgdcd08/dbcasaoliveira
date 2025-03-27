@@ -3,4 +3,4 @@ Estudo de Caso O caso da Casa Oliveira Roberto é dono de um mercado no bairro d
 
 <div><img src="modelo-conceitual.png"></div>
 
-<div><img src="modelobancocasaoliveira.png"></div>
+<div><img src="modelobancocasaoliveira.PNG"></div>
